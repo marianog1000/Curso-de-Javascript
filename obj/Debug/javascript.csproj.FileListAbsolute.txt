@@ -1,0 +1,5 @@
+D:\mariano\TUTORIALES\javascript\curso\javascript\javascript\bin\javascript.dll
+D:\mariano\TUTORIALES\javascript\curso\javascript\javascript\bin\javascript.pdb
+D:\mariano\TUTORIALES\javascript\curso\javascript\javascript\obj\Debug\ResolveAssemblyReference.cache
+D:\mariano\TUTORIALES\javascript\curso\javascript\javascript\obj\Debug\javascript.dll
+D:\mariano\TUTORIALES\javascript\curso\javascript\javascript\obj\Debug\javascript.pdb
